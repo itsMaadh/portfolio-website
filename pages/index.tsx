@@ -63,6 +63,7 @@ export default function Home() {
               bgColor={work.bgColor}
               logoUrl={work.logoUrl}
               description={work.description}
+              key={work.heading}
             />
           ))}
         </div>
