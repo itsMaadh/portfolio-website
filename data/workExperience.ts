@@ -6,7 +6,7 @@ const workExperience = [
     logoAltText: "Fish on logo",
     workImage: "/fishon-web.png",
     workImageAltText: "Fish on website",
-    url: "https://fishon.mv",
+    url: "",
     description:
       "An experience booking app made for a client along with an admin panel and a CMS. This was created using Angular as the front end technology and NestJs as the back end technology.",
   },
@@ -28,7 +28,7 @@ const workExperience = [
     logoAltText: "Publicity bureau logo",
     workImage: "/publicity-web.png",
     workImageAltText: "Publicity bureau website",
-    url: "https://publicity.mv",
+    url: "",
     description:
       "Revamped Publicity Bureau's website. The new website helps effectively communicate with their clients and show their latest projects and updates on them hassle free.",
   },

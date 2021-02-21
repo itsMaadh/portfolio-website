@@ -13,6 +13,10 @@ export default function WorkCard({
       <div
         className={`bg-${bgColor}-100 rounded-xl h-auto mb-8 hover:bg-${bgColor}-200 shadow-xl`}
       >
+        <p className="hidden">
+          bg-purple-100 bg-green-100 bg-blue-100 hover:bg-purple-200
+          hover:bg-green-200 hover:bg-blue-200
+        </p>
         <div className="grid grid-cols-1 xl:grid-cols-2">
           <div className="px-5 py-9">
             <div className="rounded-full h-16 w-16 flex items-center justify-center bg-white ml-3">
