@@ -12,6 +12,12 @@ export default function Home() {
     <div>
       <Head>
         <title>Maadh's Portfolio</title>
+        <meta property="title" content="Maadh's Portfolio" key="title" />
+        <meta
+          property="description"
+          content="Here's my portfolio with some of the projects and clients I've worked with. Let's get in touch!"
+          key="description"
+        />
         <link rel="icon" href="/favicon.ico" />
         <link rel="preconnect" href="https://fonts.gstatic.com" />
         <link
@@ -107,6 +113,7 @@ export default function Home() {
                   color={social.color}
                   svgUrl={social.svgUrl}
                   svgUrlAlt={social.svgUrlAlt}
+                  key={social.url}
                 />
               ))}
             </div>
