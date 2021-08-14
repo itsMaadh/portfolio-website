@@ -55,7 +55,7 @@ export default function Home() {
                 <p className="text-gray-400 pt-5 pb-5">I make web stuff.</p>
                 <p className="text-gray-900 font-light text-lg pb-10 md:mr-20">
                   I am a full stack developer specializing in web technologies.
-                  I currently work as a software engineer at MTCC Maldives.
+                  I currently work as a Full-stack Developer at LottieFiles.
                 </p>
                 <a
                   href="https://t.me/maadh"
