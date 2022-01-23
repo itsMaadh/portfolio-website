@@ -1,6 +1,6 @@
 const socials = [
   {
-    url: "mailto:maadh@pm.me",
+    url: "mailto:hello@maadh.pw",
     color: "red",
     svgUrl: "/email-symbol.svg",
     svgUrlAlt: "Email",
