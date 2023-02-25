@@ -58,7 +58,7 @@ export default function Home() {
                   I currently work as a Full-stack Developer at LottieFiles.
                 </p>
                 <a
-                  href="https://t.me/maadh"
+                  href="mailto:hello@maadh.pw"
                   target="_blank"
                   className="bg-gray-900 text-white uppercase px-12 py-3 rounded-md text-sm tracking-wider font-medium hover:bg-gray-700 shadow-xl"
                 >
