@@ -1,10 +1,10 @@
 const socials = [
-  {
-    url: "mailto:hello@maadh.pw",
-    color: "red",
-    svgUrl: "/email-symbol.svg",
-    svgUrlAlt: "Email",
-  },
+//   {
+//     url: "mailto:hello@maadh.pw",
+//     color: "red",
+//     svgUrl: "/email-symbol.svg",
+//     svgUrlAlt: "Email",
+//   },
   {
     url: "https://github.com/itsMaadh",
     color: "gray",
