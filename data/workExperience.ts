@@ -17,7 +17,7 @@ const workExperience = [
     logoAltText: 'Logo',
     workImage: '/car-parts-classifier.png',
     workImageAltText: 'Car parts classifier',
-    url: 'https://car-parts-classifier.vercel.app/',
+    url: 'https://car-parts-classifier-app.vercel.app/',
     description:
       'A web app that can classify car parts. The model was trained using a ResNet Inception V2 Model and achieved an accuracy of 84% with just 800 images. The front end was created using NextJs. The model achieves good accuracy even with low quality images.',
   },
