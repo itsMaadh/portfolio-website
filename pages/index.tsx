@@ -55,15 +55,14 @@ export default function Home() {
                 <p className="text-gray-400 pt-5 pb-5">I make web stuff.</p>
                 <p className="text-gray-900 font-light text-lg pb-10 md:mr-20">
                   I am a full stack developer specializing in web technologies.
-                  I currently work as a Full-stack Developer at LottieFiles.
+                  I currently work as a freelance Full-stack Developer.
                 </p>
-                {/*<a
-                  href="mailto:hello@maadh.pw"
-                  target="_blank"
+                <a
+                  href="/contact"
                   className="bg-gray-900 text-white uppercase px-12 py-3 rounded-md text-sm tracking-wider font-medium hover:bg-gray-700 shadow-xl"
                 >
                   Let's chat
-                </a>*/}
+                </a>
               </div>
             </div>
           </div>
